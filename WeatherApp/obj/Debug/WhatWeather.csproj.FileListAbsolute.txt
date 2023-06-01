@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\obj\Debug\WhatWeather.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\obj\Debug\WhatWeather.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\obj\Debug\WeatherApplication.Main.resources
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\obj\Debug\WhatWeather.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\obj\Debug\WhatWeather.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\obj\Debug\WhatWeather.csproj.CopyComplete
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\user\Desktop\WhatWeather App\WeatherApp\obj\Debug\WeatherApp.pdb
